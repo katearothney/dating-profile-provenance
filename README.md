@@ -1,10 +1,14 @@
 # Verified, not authentic
 
+> **Key finding:** a dating app's "verified" check confirms a live person, not that their photos are real. In one study, people spotted AI-generated profile photos only 42.8% of the time, below chance (Ivan, 2025).
+>
+> **What you'll get:** a graded grid of what exists to mark, detect and label AI images, video and voice on profiles, a proposal for what apps should do, and the counter-evidence on labels backfiring. No law currently requires dating apps to label AI photos.
+
 I keep coming back to one question: should dating apps show where a profile's photos and words actually came from, the way Pinterest labels AI images, even when no law makes them?
 
 This started with a real profile (the full story is in [why.md](why.md)). A man liked me on Hinge. His profile had the purple "verified" check. His photos were a jumble of AI-generated lifestyle shots (a man in a black overcoat in falling snow, a man fishing by a lake with the background quietly warping the way AI images do) and hockey photos of a Montreal Canadiens player, where the face barely held steady from one image to the next. The check told me a real person was behind the account. It told me nothing about whether the photos were real. Those turn out to be two completely different questions, and almost nobody using these apps knows that.
 
-This is me working that out in public. I'm not a trust and safety engineer or a lawyer. I read the research, I try to be straight about what it does and doesn't show, and mostly I care about the practical side: what would actually make these spaces safer, and what would just look like it.
+This is me working that out in public. I read the research, I try to be straight about what it does and doesn't show, and mostly I care about the practical side: what would actually make these spaces safer, and what would just look like it.
 
 The stakes are not abstract. Unlabeled synthetic content lands hardest on the people already most exposed on these platforms, which is women, older adults, and marginalized users. That is the reason I care about the boring infrastructure question of provenance.
 
@@ -80,3 +84,7 @@ The biggest honest limit runs through the whole repo: the money-loss numbers are
 Want to add a study I missed, poke holes in a grade, or bring evidence that cuts against me? That is the most useful thing you can do here. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Shared under CC BY 4.0. All of this is my own opinion and does not represent my employer.
+
+## Scope and caveats
+
+I'm not a trust and safety engineer or a lawyer. I read the research and try to be straight about what it does and doesn't show.
