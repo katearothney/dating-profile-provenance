@@ -1,4 +1,6 @@
-# Verified, not authentic
+# Dating Profile Provenance
+
+*Verified, not authentic.*
 
 > **Key finding:** a dating app's "verified" check confirms a live person, not that their photos are real. In one study, people spotted AI-generated profile photos only 42.8% of the time, below chance (Ivan, 2025).
 >
